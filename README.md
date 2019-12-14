@@ -11,5 +11,5 @@ A project from the Udacity's Programming for Data science Nano Degree
 Bike share data files
 
 ### Credits
-Thanks to the udacity students for their support.
+Thanks to the udacity students for their support and help through out this program.
 
