@@ -79,7 +79,7 @@ def load_data(city, month, day):
  
     df['hour'] = df['Start Time'].dt.hour                   # range (0-23)
 
-    # Filtering by month 1-12
+    # Filtering by month
     df['End Time'] = pd.to_datetime(df['End Time'])
     if month != 'all':
         months = ['january', 'february', 'march', 'april', 'may', 'june']
